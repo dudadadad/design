@@ -42,7 +42,6 @@ body
     color: #FF9659;
 }
 
-/* container do meio */
 .meio
 {
     margin-left: -1vw;
@@ -120,7 +119,6 @@ iframe
     margin-left: -8vh;
 }
 
-/*fim*/
 .fim
 {
     margin-top: 30vh;
@@ -151,7 +149,7 @@ iframe
     margin-bottom: 7vh;
 }
 
-.balaoCinza
+.balao
 {
     background-color: #181628;
     border-radius: 0.7vh;
@@ -163,7 +161,7 @@ iframe
     padding-top: 4vh;
 }
 
-.balaoCinza p
+.balao p
 {
     margin-left: 2.2vw;
     margin-right: 2vw;
@@ -190,7 +188,7 @@ iframe
     margin-bottom: 16px;
 }
 
-.expl
+.texto
 {
     color: #ff9659;
     font-weight: 500;
